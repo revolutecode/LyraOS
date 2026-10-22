@@ -1,0 +1,7 @@
+build/
+out/
+*.elf
+*.o
+*.obj
+*.iso
+*.img
